@@ -1,0 +1,11 @@
+/.vs
+/Shifta.Pacientes.Business/obj
+/Shifta.Pacientes.DataAccess/obj
+/Shifta.Pacientes.Domain/obj
+/Shifta.Pacientes.Api/obj
+/Shifta.Pacientes.Framework.Domain/obj
+/Shifta.Pacientes.Business/bin/Debug/net6.0
+/Shifta.Pacientes.DataAccess/bin/Debug/net6.0
+/Shifta.Pacientes.Domain/bin/Debug/net6.0
+/Shifta.Pacientes.Framework.Domain/bin/Debug/net6.0
+/Shifta.Pacientes.Api/bin/Debug/net6.0
